@@ -1,0 +1,13 @@
+WellnessWhiz/
+│
+├── backend/
+│   ├── app.py
+│   ├── nlp_model.py
+│   └── conditions.json
+├── frontend/
+│   ├── index.html
+│   ├── styles.css
+│   └── script.js
+├── README.md
+├── requirements.txt
+└── run.sh
