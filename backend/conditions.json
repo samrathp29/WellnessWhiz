@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Common Cold",
+        "symptoms": ["cough", "sore throat", "runny nose"]
+    },
+    {
+        "name": "Flu",
+        "symptoms": ["fever", "cough", "headache", "muscle aches"]
+    },
+    {
+        "name": "Migraine",
+        "symptoms": ["headache", "nausea", "sensitivity to light"]
+    }
+]
